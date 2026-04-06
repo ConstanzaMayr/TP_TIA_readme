@@ -2,6 +2,7 @@
 Version in English:
 
 Bookhub
+
 A virtual library to upload and download books.
 
 Project Status: In development. We will soon start writing the code.
@@ -16,6 +17,7 @@ Marketplace: Our platform creates a market where the community can buy and sell 
 Community: You can post updates and write reviews. It works like a social network where users recommend, talk about, or discover new books.
 
 Environment Requirements
+
 Vue.js
 
 SQL
@@ -27,9 +29,11 @@ HTML
 CSS
 
 Installation and Use
+
 You can install it directly from our website.
 
 Technologies Used
+
 Vue.js: https://vuejs.org/
 
 Git: https://git-scm.com/
@@ -37,6 +41,7 @@ Git: https://git-scm.com/
 SQL, HTML, CSS
 
 Collaboration
+
 How to contribute:
 
 Fork the repository.
@@ -50,6 +55,7 @@ Send a Pull Request.
 How to report errors: Please use the Issues section.
 
 License
+
 This project uses the MIT License.
 
 Important: Users are responsible for the content they upload. The illegal distribution of copyrighted material is not allowed.
@@ -61,11 +67,13 @@ Constanza Mayr, Jazmin Paz, Brisa Jerez, Benjamin Juarez, Felipe Funes Carcano.
 Version in Spanish:
 
 Bookhub
+
 Una biblioteca virtual para subir y descargar libros.
 
 Estado del proyecto: En desarrollo. Próximo a realizarse en lenguaje de programación.
 
 Características
+
 Suscripción: Un pago mensual que le permite al usuario acceso a una biblioteca ilimitada de la plataforma y de los usuarios.
 
 Crecimiento exponencial: Gracias a la dinámica de la plataforma en la que los usuarios pueden subir libros para vender, esta biblioteca solo va a crecer.
@@ -75,6 +83,7 @@ Compra: Nuestra plataforma proporciona el desarrollo de un mercado dentro de la 
 Desarrollo de la comunidad: La posibilidad de hacer publicaciones y reseñas permite que se genere una comunidad similar a una red social donde los usuarios pueden hacer recomendaciones, debatir o descubrir libros nuevos.
 
 Requisitos del entorno
+
 Vue.js
 
 SQL
@@ -86,9 +95,11 @@ HTML
 CSS
 
 Instalación y uso
+
 Se instala directamente desde la página web.
 
 Tecnologías usadas
+
 Vue.js: https://vuejs.org/
 
 Git: https://git-scm.com/
