@@ -4,10 +4,10 @@ Una biblioteca virtual para subir y descargar libros.
 estado del proyecto: en desarrollo, proximo a realizarse en lenguaje de programacion.
 
 Caracteristicas:
-	Suscripcion:Un pago mensual que le permite al usuario acceso a una biblioteca ilimitada de la plataforma y de los usuarios.
+	Suscripcion: Un pago mensual que le permite al usuario acceso a una biblioteca ilimitada de la plataforma y de los usuarios.
 	Crecimiento exponencial: Gracias a la dinamica de la plataforma en los que los usuarios pueden subir libros para vender, esta biblioteca solo va a crecer.
 	Compra: Nuestra plataforma proporciona el desarrollo de un mercado dentro de la misma comunidad
-	Desarrollo de la comunidad:La posibilidad de hacer publicaciones y reseñas permite que se genere una comunidad similar a una red social   donde los usuarios pueden hacer recomendaciones debatir o descubrir libros nuevos.
+	Desarrollo de la comunidad:La posibilidad de hacer publicaciones y reseñas permite que se genere una comunidad similar a una red social donde los usuarios pueden hacer recomendaciones debatir o descubrir libros nuevos.
 
 Requisitos del entorno:
 	-Vue.js
